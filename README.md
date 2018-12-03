@@ -35,7 +35,7 @@ Download all three folders from the repository into a workspace. Edit the config
 
 ### Main configuration
 
-[config/config.properties](https://github.com/nemethrobert/javatest1/config/config.properties)
+[config/config.properties](https://github.com/nemethrobert/javatest1/blob/master/config/config.properties)
 
 This file contains all settings of the application except the read/write rights.
 
