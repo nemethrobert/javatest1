@@ -3,7 +3,7 @@
  * v1.0.100
  * 
  * Created by Róbert Németh, Mogyoród, Hungary, 01/12/2018
- * rnemeth@panadea.com
+ * rnemeth at panadea.com
  */
 
 package alizjava;
