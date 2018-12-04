@@ -17,7 +17,7 @@ The following rules are applied only if using the access rights are enabled in t
 
 A folder
 * ... can be visible only if there is read and/or write access on it
-* ... is anyway visible if it has write access grant
+* ... is anyway visible if it has write access grant - except if the folder could be reached just through non-readable folder(s)
 * ... cannot be displayed if it has read-only access but has no any children folder that has write access granted
 * ... also cannot be displayed if it is read-only, has writable child but this child is in a folder that is not set as readable
 
