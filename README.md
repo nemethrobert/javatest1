@@ -1,6 +1,6 @@
-# Javatest1 - Roaming a folder structure
+# Javatest1 - Folder structure experiment
 
-This is an experimental project to load and roam a custom folder structure, according to the configuration and the specified read/write rights. The application is flexible and highly configurable.
+This is an experimental project to load and display a custom folder structure, according to the configuration and the specified read/write rights. The application is flexible and highly configurable.
 
 ## Details
 
